@@ -1,1 +1,2 @@
 # Data-Cleaning-SQL
+This Project focuses on cleaning data in SQL and shows how to manipulate the data once it's actually in the database. The Data Cleaning project in SQL focuses on the process of transforming and preparing data for analysis by identifying and correcting inconsistencies, errors, and missing values. This project aims to improve the quality and reliability of the data to ensure accurate and meaningful insights.
